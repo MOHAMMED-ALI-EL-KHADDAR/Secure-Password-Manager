@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Local Test Vaults & Databases
+*.json
+*.db
+.secure_password_manager/
+
+# Python Cache
+__pycache__/
+*.pyc
